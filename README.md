@@ -66,7 +66,7 @@ After generate page `Storage.Add` will be replaced to the path.
  - [ ] Add logs
  
 ## 📝 License 
+[The MIT License (MIT)](https://mit-license.org/)
 
-It's [The MIT License (MIT)](https://mit-license.org/)
 Made with love by TwoChisel 💜
 
