@@ -12,7 +12,7 @@ The file-storage is needed to create icons in Blazor projects. Svg Points to Pat
 
 2. Clone the repo
 ```
-git clone https://github.com/TwoChisel/SvgPointsToPath.git
+git clone https://github.com/Kataane/SvgPointsToPath.git
 cd SvgPointsToPath
 ```
 
@@ -39,9 +39,9 @@ Svg Points to Path support next args:
 ```
 
 Next example SvgPointsToPath get test svg files from svg folder in repo. 
-Create file-storage with namespace **TwoChisel** and class **Storage** in repo folder.
+Create file-storage with namespace **Kataane** and class **Storage** in repo folder.
 ```
-SvgPointsToPath.exe ../../../svg TwoChisel Storage ../../../
+SvgPointsToPath.exe ../../../svg Kataane Storage ../../../
 ```
 
 If everything is ok, you will see the message
@@ -68,5 +68,5 @@ After generate page `Storage.Add` will be replaced to the path.
 ## 📝 License 
 [The MIT License (MIT)](https://mit-license.org/)
 
-Made with love by TwoChisel 💜
+Made with love by Kataane 💜
 
